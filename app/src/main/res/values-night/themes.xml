@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TemperatureConverter" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/dark_Primary_color</item>
+        <item name="colorPrimaryVariant">@color/Primary_color_text</item>
+        <item name="colorOnPrimary">@color/Primary_text</item>
+        <!-- Secondary brand color. -->
+        <item name="colorOnSecondary">@color/text</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
